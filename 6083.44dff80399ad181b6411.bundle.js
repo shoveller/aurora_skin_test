@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_shopby_react_skin=self.webpackChunk_shopby_react_skin||[]).push([[6083],{6083:(e,r,n)=>{n.r(r),n.d(r,{default:()=>h});var c=n(6335),s=n(5697),t=n(63),a=n(7294),p=function(e){var r=e.children;return(0,t.jF3)()?a.createElement(c.Fg,{replace:!0,to:"/"}):r};const h=p;p.propTypes={children:s.node}}}]);
